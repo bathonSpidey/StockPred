@@ -1,0 +1,2 @@
+# StockPred
+just som practice
